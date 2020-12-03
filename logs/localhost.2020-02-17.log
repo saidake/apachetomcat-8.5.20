@@ -1,5 +1,0 @@
-17-Feb-2020 14:19:38.014 警告 [localhost-startStop-1] org.apache.catalina.session.StandardSession.doReadObject Cannot deserialize session attribute [list] for session [0DB2C8119F2BD86BC0E9ECE776715D99]
-17-Feb-2020 14:19:39.320 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
-17-Feb-2020 14:19:39.320 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
-17-Feb-2020 14:23:31.124 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
-17-Feb-2020 14:23:31.124 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

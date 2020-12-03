@@ -1,9 +1,0 @@
-[2020-03-20 17:31:20] [info]  [ 7552] Commons Daemon procrun (1.0.15.0 64-bit) started
-[2020-03-20 17:31:20] [info]  [ 7552] Running 'Tomcat8' Service...
-[2020-03-20 17:31:21] [info]  [ 7900] Starting service...
-[2020-03-20 17:31:22] [info]  [ 7900] Service started in 1228 ms.
-[2020-03-20 22:59:47] [info]  [ 1132] Console SHUTDOWN event signaled
-[2020-03-20 22:59:47] [info]  [ 1132] Stopping service...
-[2020-03-20 22:59:48] [info]  [ 1132] Service stop thread completed.
-[2020-03-20 22:59:48] [info]  [ 7552] Run service finished.
-[2020-03-20 22:59:48] [info]  [ 7552] Commons Daemon procrun finished

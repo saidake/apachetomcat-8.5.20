@@ -1,6 +1,0 @@
-16-May-2020 01:46:25.461 信息 [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-80"]
-16-May-2020 01:46:25.758 信息 [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
-16-May-2020 01:46:25.961 信息 [Thread-6] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
-16-May-2020 01:46:26.008 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
-16-May-2020 01:46:26.023 信息 [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-80"]
-16-May-2020 01:46:26.023 信息 [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]

@@ -1,9 +1,0 @@
-127.0.0.1 - - [23/Dec/2019:08:04:53 +0800] "GET /robots.txt HTTP/1.1" 404 1080
-127.0.0.1 - - [23/Dec/2019:08:04:53 +0800] "GET /login.jsp HTTP/1.1" 200 3039
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET //css/login.css HTTP/1.1" 404 1084
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET //css/bootstrap.css HTTP/1.1" 200 146010
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET /js/jquery-1.11.3.min.js HTTP/1.1" 200 95957
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET /js/bootstrap.js HTTP/1.1" 200 69707
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET //css/login.css HTTP/1.1" 404 1084
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET //fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
-127.0.0.1 - - [23/Dec/2019:08:04:54 +0800] "GET /favicon.ico HTTP/1.1" 404 1081
